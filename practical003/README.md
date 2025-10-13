@@ -10,7 +10,7 @@
 
 ## Trap\_tutorial
 
-pi/3 in Radians = 1.047198
+pi/3 in Radians = 1.047198  
 Initial Area: f(x0) + f(x12) = 1.732051
 New area at x(1) = 1.907028
 New area at x(2) = 2.259682
