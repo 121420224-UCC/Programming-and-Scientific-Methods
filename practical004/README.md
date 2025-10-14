@@ -1,10 +1,10 @@
 # Practical 4
 
 # Compile:
-* gcc -o area area.c -lm
+* gcc -o array array.c -lm
 
 # Execute:
-* ./area
+* ./array
 
 #Output:
 
